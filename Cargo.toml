@@ -1,0 +1,7 @@
+[package]
+name = "stm32f0-rust-blinky"
+version = "0.1.0"
+authors = ["Jesse Braham <jesse@beta7.io>"]
+edition = "2018"
+
+[dependencies]
