@@ -1,5 +1,8 @@
 # stm32f0-rust-blinky
 
+> This repository contains the source code to accompany ["Embedded Rust: From Zero to Blinky"](https://beta7.io/rust/embedded-rust-from-zero-to-blinky.html).  
+> For a more in-depth explanation please refer to the post.
+
 A minimal application to demonstrate embedded development using [Rust](https://github.com/stm32-rs/stm32f0xx-hal). Created using an [STM32 Nucleo F091RC](https://www.st.com/en/evaluation-tools/nucleo-f091rc.html) development board. Blinks an LED on pin `PA1`.
 
 - - -
